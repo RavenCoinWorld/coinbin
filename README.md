@@ -1,13 +1,13 @@
-coinbin
+RavenCoin (RVN) Web Wallet Done by RavenCoin.World
 =======
 
-A Open Source Browser Based Bitcoin Wallet. Version 1.4 beta by OutCast3k
+A Open Source Browser Based RavenCoin Wallet. Version 1.0 beta by RavenCoin.World
 
-Live version available at http://coinb.in/ or http://4zpinp6gdkjfplhk.onion
+Live version available at http://wallet.ravencoin.world
 
-Github URL: https://github.com/OutCast3k/coinbin/
+Github URL: https://github.com/RavenCoinWorld
 
-Coinb.in supports a number of key features such as: 
+RavenCoin.World Web Wallet supports a number of key features such as (All FEATURES ARE STILL BETA): 
 
 - Offline Compressed & uncompressed Address creation.
 - Offline Multisignature Address creation.
@@ -20,16 +20,8 @@ Coinb.in supports a number of key features such as:
 - Broadcast transactions.
 - nLockTime support.
 - Add custom data to transactions with the use of OP_RETURN.
-- Support current Dark Wallet Stealth Address structure (as of version Alpha 7) for outputs.
-- Brain wallet support.
-- Compatible with bitcoin-qt
-- An offical .onion address for tor users.
+- Compatible with ravencoin-qt
 - Offline qrcode creator and scanning tool
-- HD (bip32) support
-- Supports altcoins such as litecoin
-- Replace by fee (RBF) Support
-- Segwit Support
-- Bech32 address support
-- Fee calculator - https://coinb.in/#fees
 
-Donate to 3K1oFZMks41C7qDYBsr72SYjapLqDuSYuN to see more development!
+
+Donate to R9vVQn2oT2PpRN7D3Cms7bK2G5L5DreMxY and help future projects done by RavenCoin.World Team!
